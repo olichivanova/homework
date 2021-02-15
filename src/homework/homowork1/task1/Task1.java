@@ -51,8 +51,7 @@ public class Task1 {
                     System.out.println("Perimeter = " + figure2.calcPerimeter());
                     System.out.println("Square = " + figure2.calcSquare());
                     break;
-                default:
-                    break;
+
 
             }}
             catch (Exception e){e.getMessage();}
